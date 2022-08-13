@@ -28,6 +28,6 @@ public class Main {
             operator.opretorJoin();
         }
 
-        System.out.println("КОЛЛЦЕНТР завершил работу");
+        System.out.println("КОЛЦЕНТР завершил работу");
     }
 }
